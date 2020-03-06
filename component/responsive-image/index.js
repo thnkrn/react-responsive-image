@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react'
 import PropTypes from 'prop-types'
-import Placeholder from 'components/images/placeholder'
+import Placeholder from 'components/placeholder'
 import useComponentSize from 'components/custom-hooks/useComponentSize'
 import useIntersection from 'components/custom-hooks/useIntersection'
 
